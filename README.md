@@ -29,6 +29,10 @@ The script "run_analysis.R" takes care of all the steps needed to transform the 
 5.3) Add a new column to test and train datasets, with the subject who was measured.
 5.4) Merge both datasets, getting the final and tidy result.
  
- Result can be found in file tidydata.txt
- 
+Files included
+===============
+- tidydata.txt: Data set.
+- CodeBook.md: Description of the study.
+- featuresStdMean: Features included in the study and its correspondent id that links with their column in the record.
+- README.md 
  
